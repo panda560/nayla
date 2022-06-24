@@ -7,8 +7,8 @@ let handler = async m => m.reply(`
 │• 30K / Permanent
 │
 │ > Pembayaran :
-│• DANA : 08818770766
-│• TRI : 089520306297
+│• GOPAY : +6281273677810
+│• XL & TELKOMSEL : +62 819-5929-3465 & 6281273677810
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['sewa']
