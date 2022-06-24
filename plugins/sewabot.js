@@ -1,5 +1,5 @@
 let handler = async m => m.reply(`
-╭─「 RENT BOT 」
+╭─「 FAIZ BOT 」
 │
 │ > Harga :
 │• 5K / Minggu
